@@ -13,28 +13,16 @@
 */
 
 
-<Script CommentScript()
-
-{
-
 Mutter Corp;
-
 Soluções Tecnologias;
 
 
 @MaikonWeber -Fundador - CTO - Desenvolvedor ;
 @LuanLPG - Co-Autor
-  
-Grupos{
 
 @MutterCorp;
-
 @GrupoQuadrivium; 
-
 @LlamArtStudio;
-
-}
-
 
 _*() {
 
